@@ -19,3 +19,6 @@
 ```bash
     /chapters?cache_control=no-cache
 ```
+
+### Logs
+- Logs are printed on console and also logged to a log file in the root directory `logs/app.log`.
